@@ -1,9 +1,9 @@
 /**
  * @name SendLowercase
  * @version 1.0.0b
- * @website https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/BetterFormattingRedux
- * @source https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BetterFormattingRedux/BetterFormattingRedux.plugin.js
- * @updateUrl https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BetterFormattingRedux/BetterFormattingRedux.plugin.js
+ * @website https://github.com/jamie-the-ducc/better-discord-plugins/tree/main/SendLowercase
+ * @source https://raw.githubusercontent.com/jamie-the-ducc/better-discord-plugins/main/SendLowercase/SendLowercase.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/jamie-the-ducc/better-discord-plugins/main/SendLowercase/SendLowercase.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -39,8 +39,8 @@ module.exports = (() => {
             }],
             version: "1.0.0b",
             description: "Sends lowercase messages in Discord chat",
-            github: "https://github.com/jamie-the-ducc/BetterDiscordAddons/tree/master/Plugins/BetterFormattingRedux",
-            github_raw: "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BetterFormattingRedux/BetterFormattingRedux.plugin.js"
+            github: "https://github.com/jamie-the-ducc/better-discord-plugins/tree/main/SendLowercase",
+            github_raw: "https://raw.githubusercontent.com/jamie-the-ducc/better-discord-plugins/main/SendLowercase/SendLowercase.plugin.js"
         },
         changelog: [{
                 title: "Initial Release",
